@@ -1,0 +1,1 @@
+Please use the official version at https://github.com/pacificbiosciences/pbmm2/
